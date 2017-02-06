@@ -18,4 +18,4 @@ Steps to run this project:
  * Data center S has similar inflection points as I, but the range of difference
  * from maxima to minima is smaller. Finally, A is the most consistent in values
  * across time. A has the smallest range from highest to lowest point and remains
- * around an average values of ~3592.98.
+ * around an average value of ~3592.98.
